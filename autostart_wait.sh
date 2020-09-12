@@ -2,4 +2,4 @@
 
 sleep 3
 #xmodmap ~/.Xmodmap &
-fcitx5 &
+fcitx &
