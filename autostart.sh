@@ -11,6 +11,7 @@ picom -o 0.95 -i 0.88 --detect-rounded-corners --vsync --blur-background-fixed -
 xautolock -time 10 -locker '/usr/bin/lock' -corners ---- -cornersize 30 &
 nm-applet &
 blueman-applet &
+optimus-manager-qt &
 caffeine-indicator &
 flameshot &
 #xfce4-power-manager &
