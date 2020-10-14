@@ -1,7 +1,7 @@
 #!/bin/bash
 
 /bin/bash ~/scripts/dwm-status.sh &
-feh --bg-fill ~/Pictures/wallpapers/wallhaven/desktop.png &
+feh --bg-fill ~/Pictures/wallpapers/wallhaven/wallhaven-j5mz95.png &
 wmname LG3D
 ~/scripts/dualmon.sh &
 #/bin/bash ~/scripts/wp-autochange.sh &
