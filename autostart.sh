@@ -1,10 +1,10 @@
 #!/bin/bash
 
 /bin/bash ~/scripts/dwm-status.sh &
-#feh --bg-fill ~/Pictures/wallhaven1.jpg &
+feh --bg-fill ~/Pictures/wallpapers/lockPic.png &
 wmname LG3D
 ~/scripts/dualmon.sh &
-/bin/bash ~/scripts/wp-autochange.sh &
+#/bin/bash ~/scripts/wp-autochange.sh &
 #picom -o 0.95 -i 0.88 --detect-rounded-corners --vsync --blur-background-fixed -f -D 5 -c -b
 picom -b
 /bin/bash ~/scripts/tap-to-click.sh &
