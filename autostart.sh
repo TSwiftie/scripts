@@ -15,7 +15,7 @@ blueman-applet &
 caffeine-indicator &
 flameshot &
 xfce4-power-manager &
-#optimus-manager-qt &
+optimus-manager-qt &
 #xfce4-volumed-pulse &
 #/bin/bash ~/scripts/run-mailsync.sh &
 ~/scripts/autostart_wait.sh &
