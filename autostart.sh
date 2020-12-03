@@ -20,7 +20,7 @@ xautolock -time 10 -locker '/usr/bin/lock' -corners ---- -cornersize 30 &
 nm-applet &
 #蓝牙
 blueman-applet &
-caffeine-indicator &
+caffeine &
 #火焰截图
 flameshot &
 #电源管理
