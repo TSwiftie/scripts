@@ -3,7 +3,7 @@
 #dwm-status
 /bin/bash ~/scripts/dwm-status.sh &
 #壁纸
-feh --bg-fill ~/Pictures/wallpapers/wallhaven/wallhaven-9mxz8k.jpg &
+feh --bg-fill ~/Pictures/wallpapers/wallhaven/wallhaven-v9x6gm.jpg &
 #修改wmname
 wmname LG3D
 #显示器
