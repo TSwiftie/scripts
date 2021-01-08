@@ -24,7 +24,7 @@ caffeine &
 #火焰截图
 flameshot &
 #电源管理
-xfce4-power-manager &
+#xfce4-power-manager &
 #显卡切换
 optimus-manager-qt &
 #等待启动
