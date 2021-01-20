@@ -6,6 +6,7 @@
 feh --bg-fill ~/Pictures/wallpapers/wallhaven/wallhaven-6oq5lq.jpg &
 #修改wmname
 wmname LG3D
+clash &
 #显示器
 ~/scripts/dualmon.sh &
 #/bin/bash ~/scripts/wp-autochange.sh &
