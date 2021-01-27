@@ -28,5 +28,5 @@ flameshot &
 #xfce4-power-manager &
 #显卡切换
 optimus-manager-qt &
-#等待启动
-~/scripts/autostart_wait.sh &
+#输入法
+fcitx5 &
