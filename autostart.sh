@@ -3,7 +3,7 @@
 #dwm-status
 /bin/bash ~/scripts/dwm-status.sh &
 #壁纸
-feh --bg-fill ~/Pictures/wallpapers/wallhaven/wallhaven-3zzygv.jpg &
+feh --bg-fill ~/Pictures/wallpapers/wallhaven/wallhaven-z8p9rj.jpg &
 #修改wmname
 wmname LG3D
 clash &
@@ -21,7 +21,8 @@ xautolock -time 10 -locker '/usr/bin/lock' -corners ---- -cornersize 30 &
 nm-applet &
 #蓝牙
 blueman-applet &
-caffeine -a &
+#caffeine -a &
+caffeine &
 #火焰截图
 flameshot &
 #电源管理
