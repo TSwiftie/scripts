@@ -3,10 +3,10 @@
 #dwm-status
 /bin/bash ~/scripts/dwm-status.sh &
 #壁纸
-feh --bg-fill ~/Pictures/wallpapers/wallhaven/wallhaven-z8p9rj.jpg &
+feh --bg-fill ~/Pictures/wallpapers/wallhaven/wallhaven-8oev1j.jpg &
 #修改wmname
 wmname LG3D
-clash &
+clash -d ~/.config/clash &
 #显示器
 ~/scripts/dualmon.sh &
 #/bin/bash ~/scripts/wp-autochange.sh &
